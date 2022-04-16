@@ -1,0 +1,9 @@
+{
+    "git.autofetch": true,
+    "files.autoSave": "onFocusChange",
+    "editor.fontLigatures": false,
+    "editor.fontFamily": "Berlin Sans FB, 'Courier New', monospace",
+    "editor.fontSize": 16,
+    "workbench.colorTheme": "Monokai Dimmed",
+    "java.format.settings.url": ".vscode/java-formatter.xml"
+}
