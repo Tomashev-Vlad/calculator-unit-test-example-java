@@ -5,5 +5,9 @@
     "editor.fontFamily": "Berlin Sans FB, 'Courier New', monospace",
     "editor.fontSize": 16,
     "workbench.colorTheme": "Monokai Dimmed",
-    "java.format.settings.url": ".vscode/java-formatter.xml"
+    "java.format.settings.url": ".vscode/java-formatter.xml",
+    "[java]": {
+        "editor.tabSize": 6,
+        "editor.insertSpaces": true
+    }
 }
